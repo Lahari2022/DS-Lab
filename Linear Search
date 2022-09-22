@@ -1,0 +1,12 @@
+mylist=[1,5,8,18,25,36]
+pivot=int(input("Enter a number"))
+for i in mylist:
+  if pivot==i:
+    flag=1
+    break
+  else:
+    flag=0
+if flag==1:
+  print("Element Found")
+else:
+  print("Element not Found")
