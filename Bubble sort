@@ -2,7 +2,7 @@ L = list (map (int, Input (). Split (" ")))
 
 print (L)
 
-length = len([]
+length = len[L]
 
 Print ("Before sorted:", L)
 
