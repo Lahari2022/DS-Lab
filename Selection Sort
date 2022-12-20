@@ -1,0 +1,10 @@
+l= list (map (ent, input().split(" "))
+for i in range(len(l)):
+   m=l[i]
+   p=i
+   for i in rangelt, leo(P)):
+        if l[j]<m:
+          m=l[j]
+          l=j
+    l[i],l[P] = l[P],l[i]
+ print(l)
