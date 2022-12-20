@@ -29,8 +29,3 @@ list=[12,52,54,98,7,87]
 print("before sorting:",list)
 merge(list)
 print("After sorting ",list)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
