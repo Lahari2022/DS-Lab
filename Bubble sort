@@ -1,0 +1,15 @@
+L = list (map (int, Input (). Split (" ")))
+
+print (L)
+
+length = len([]
+
+Print ("Before sorted:", L)
+
+for i in range (length-L):
+    for j in range (length-1):
+
+       if ((i) > L [j+1]:
+
+         L[ i ],L [j+1] = L[j+1], L[j]
+Print ("After sorted:", L)
